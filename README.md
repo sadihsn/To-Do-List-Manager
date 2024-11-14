@@ -15,7 +15,7 @@ A simple and fully functional To-Do List Manager built with **HTML**, **CSS**, a
 
 ## Demo
 
-You can view the live demo of this project at [**Live Demo**] (Add your demo link here if hosted somewhere).
+You can view the live demo of this project at [**Live Demo**] (https://incandescent-buttercream-698cdd.netlify.app/).
 
 ## Installation
 
